@@ -1,2 +1,1 @@
-# Python_Basics
-Basic statements in Python
+This is a file for Python Basics
